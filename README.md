@@ -43,3 +43,4 @@
 	</body>
 </html>
 https://quochuyvan.github.io/HuyVan/
+https://roadmap.sh/projects/single-page-cv
